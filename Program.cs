@@ -4,7 +4,7 @@ class program
 {
     static void Main()
     {
-        List<Pet> animals = new List<Pet>();○
+        List<Pet> animals = new List<Pet>();
         animals.Add(new Fish("Nemo"));
         animals.Add(new Fish("Salma"));
         animals.Add(new Dog("Mio"));
